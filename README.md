@@ -39,8 +39,10 @@
 
 ## Dashboard Screenshot
 
-![Just In Time Supply Chain Analytics Dashboard](link-to-your-dashboard-screenshot.png)
-[Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiOGVhMzE4MGQtOTNjYS00ZDljLThlNGYtY2RjNmY1ZjA4OGU2IiwidCI6IjQ5MWM2ZTNhLTA3MjItNDhmMi1iMDFhLWFhMzliODc0MGYxNiJ9)
+<img src="https://github.com/yanny-alt/Just-in-Time-Supply-Chain-Analysis-/blob/main/images/hMBg84yNUD.png?raw=true" alt="Dashboard Screenshot" title="Just In Time Supply Chain Analytics Dashboard">
+
+
+[Power BI Link:](https://app.powerbi.com/view?r=eyJrIjoiOGVhMzE4MGQtOTNjYS00ZDljLThlNGYtY2RjNmY1ZjA4OGU2IiwidCI6IjQ5MWM2ZTNhLTA3MjItNDhmMi1iMDFhLWFhMzliODc0MGYxNiJ9)
 
 
 ## Background of the Project
