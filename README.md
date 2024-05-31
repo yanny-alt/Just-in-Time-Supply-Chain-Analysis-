@@ -40,6 +40,8 @@
 ## Dashboard Screenshot
 
 ![Just In Time Supply Chain Analytics Dashboard](link-to-your-dashboard-screenshot.png)
+[Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiOGVhMzE4MGQtOTNjYS00ZDljLThlNGYtY2RjNmY1ZjA4OGU2IiwidCI6IjQ5MWM2ZTNhLTA3MjItNDhmMi1iMDFhLWFhMzliODc0MGYxNiJ9)
+
 
 ## Background of the Project
 
@@ -151,12 +153,12 @@ This project provided valuable insights into Just In Time’s supply chain, sale
 
 ## Dashboard
 
-[Click Here for Full Interaction with the Dashboard](link-to-your-dashboard)
+[Click Here for Full Interaction with the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGVhMzE4MGQtOTNjYS00ZDljLThlNGYtY2RjNmY1ZjA4OGU2IiwidCI6IjQ5MWM2ZTNhLTA3MjItNDhmMi1iMDFhLWFhMzliODc0MGYxNiJ9)
 
 ## Stay Connected
-- **Twitter**: [Your Twitter Handle](link-to-your-twitter)
-- **LinkedIn**: [Your LinkedIn Profile](link-to-your-linkedin)
-- **Medium**: [Your Medium Profile](link-to-your-medium)
-- **GitHub**: [Your GitHub Profile](link-to-your-github)
+- **Twitter**: [My Twitter Handle](https://x.com/yannynow)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/favourokechukwu/)
+- **Medium**: [My Medium Profile](https://medium.com/@favour.okechukwu)
+- **GitHub**: [My GitHub Profile](https://github.com/yanny-alt)
 
 Thank you for reading and God bless!
